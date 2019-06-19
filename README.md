@@ -1,2 +1,2 @@
 # ML-classifications
-Linear Classification and Nearest Neighbor Classification
+Linear Classification and Nearest Neighbor Classification 
